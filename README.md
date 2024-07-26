@@ -1,1 +1,1 @@
-# DivideandConquer-C-
+# DivideandConquer-C++
